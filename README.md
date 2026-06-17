@@ -324,6 +324,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
 - [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
+- [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup editor for removing crowds, objects, text, glasses, glare, and other distractions with focused presets and prompt-based editing.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
 - [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI.
