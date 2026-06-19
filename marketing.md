@@ -53,6 +53,7 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Adzooma](https://www.adzooma.com/)** - Automates PPC campaign management across Google, Microsoft, and Facebook Ads platforms with AI insights.
 - **[Albert AI](https://albert.ai/)** - Fully autonomous AI-driven platform for managing cross-channel digital advertising campaigns.
 - **[AdEspresso](https://adespresso.com/)** - AI-based optimization tool for managing and scaling Facebook and Google ad campaigns.
+- **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for Google Ads and Meta Ads; connects live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, surface wasted spend, and manage keywords and bids.
 
 ## Analytics
 
