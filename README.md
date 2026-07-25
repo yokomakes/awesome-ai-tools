@@ -346,6 +346,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [PlantPhotoAI](https://www.plantphotoai.com/) - free AI-generated plant images
 - [RepublicLabs.AI](https://republiclabs.ai/) - multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI models.
 - [Black Headshots](https://www.blackheadshots.com) - AI headshots generator for black professionals
+- [Blur Background](https://blurbackground.vip) - Browser-based tool for blurring or removing photo backgrounds with local image processing.
+- [Image Describer](https://imagedescriber.dev) - AI image-analysis tool that produces descriptions and alt-text drafts for accessibility and content review.
 - [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
@@ -400,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Video Upscaler](https://videoupscaler.video) - Online AI video enhancer for increasing resolution and improving perceived clarity.
 
 
 ### Animation
@@ -493,6 +496,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Other
 
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Free browser-based sidereal birth-chart calculator with planetary positions, houses, nakshatras, and Panchanga details.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
