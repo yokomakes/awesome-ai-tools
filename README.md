@@ -60,6 +60,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Character.AI](https://character.ai/) - *[reviews](https://altern.ai/product/character-ai)* - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - *[reviews](https://altern.ai/product/chatpdf)* - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - *[reviews](https://altern.ai/product/chatsonic)* - An AI-powered assistant that enables text and image creation.
+- [GPTGeminiGrok.AI](https://trygrokai.asia/) - A browser workspace for GPT, Gemini, Grok, and Claude with AI image generation and API access.
 - [Phind](https://www.phind.com/) - *[reviews](https://altern.ai/product/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
 - [Tiledesk](https://tiledesk.com/) - *[reviews](https://altern.ai/product/tiledesk)* - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
 - [AICamp](https://aicamp.so/) - *[reviews](#)* - ChatGPT for Teams
