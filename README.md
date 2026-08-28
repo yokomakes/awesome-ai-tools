@@ -275,6 +275,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source command-line tool and local MCP bridge connecting AI clients to 2,000+ model APIs through one interface.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - [GoCodeo](https://www.gocodeo.com/)- An AI Coding & Testing Agent.
 - [Amazon Q Developer]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA that provides both chat and agentic workflows.
