@@ -400,6 +400,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Preview reference-driven face, outfit, and style changes from a webcam before routing live output through the desktop app.
 
 
 ### Animation
