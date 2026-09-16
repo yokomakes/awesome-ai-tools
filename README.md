@@ -71,6 +71,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Search engines
 
 - [Kazimir.ai](https://kazimir.ai/) - A search engine designed to search AI-generated images. 
+- [AI Tools Radar](https://aitoolsradar.com/) - AI tools directory and editorial platform for discovering, comparing, and tracking practical AI products across categories.
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
