@@ -400,6 +400,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [shortshort](https://www.shortshort.io/) - Cuts one long talk or podcast into vertical 9:16 shorts that end on a complete sentence, with word-timed captions.
 
 
 ### Animation
