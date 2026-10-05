@@ -53,6 +53,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 
 ### Chatbots
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 
 - [ChatGPT](https://chatgpt.com) - *[reviews](https://theresanai.com/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Bing Chat](https://www.bing.com/chat) - *[reviews](https://altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
