@@ -400,6 +400,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video app using xAI Grok Imagine API (not official xAI/X). Free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI tool: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok; original electronic audio, not the song.
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
 
 ### Animation
 
