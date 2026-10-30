@@ -15,6 +15,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [👩‍💻 Code with AI](#code)
 - [🖼️ Generative AI Images ](#image)
 - [📽️ Generative AI Video](#video)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [🎶 Generative AI Audio](#audio)
   - [Voice Cloning](#ai-voice-cloning)
   - [Music Generation](#ai-music-generators)
