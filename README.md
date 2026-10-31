@@ -353,8 +353,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [AI Boost](https://boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - [PlantTattoosAI](https://www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
-
-
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery + image/video generator (Freemium).
 
 ### Graphic design
 
@@ -400,7 +399,13 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
-
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video app using xAI Grok Imagine API (not official xAI/X). Free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI tool: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok; original electronic audio, not the song.
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA.
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack (Paid from $7.99). Unofficial.
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove) (Paid from $7.99).
 
 ### Animation
 
