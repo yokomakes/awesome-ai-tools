@@ -367,6 +367,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Magic Patterns](https://www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
 
+- [EasySociable](https://easysociable.com/?utm_source=yokomakes-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent — prompt to branded multi-page carousels for TikTok, Instagram & LinkedIn. Free plan.
 ### Image libraries
 
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
