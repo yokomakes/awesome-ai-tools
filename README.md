@@ -400,6 +400,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [Cyanvid](https://cyanvid.com/?utm_source=github-yokomakes-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text/images with clear credit quotes.
+- [Barz Studio](https://barzvideo.com/?utm_source=github-yokomakes-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker (bring your track; WebM export).
 
 
 ### Animation
