@@ -91,6 +91,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 *For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
 - [wordtune](https://www.wordtune.com/) - Personal writing assistant.
